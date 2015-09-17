@@ -5,4 +5,9 @@
         <!-- Customize your theme here. -->
     </style>
 
+    <style name="CodeFont">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#001990</item>
+        <item name="android:typeface">monospace</item>
+    </style>
 </resources>
